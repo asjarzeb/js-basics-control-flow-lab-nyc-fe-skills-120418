@@ -6,4 +6,4 @@ function scuberGreetingForFeet (someDistance) {
   }
 }
 
-expect(scuberGreetingForFeet(199)).to.equal('This one is on me!')
+expect(scuberGreetingForFeet(199)).to.equal('This one is on me!');
