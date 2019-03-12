@@ -7,7 +7,7 @@ function scuberGreetingForFeet (someDistance) {
 }
 
 function scuberGreetingForFeet (someDistance) {
-  if (someDistance > 2000) {
+  if (someDistance >2000) {
     return ('I will gladly take your thirty bucks.')
   }
 }
