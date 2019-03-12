@@ -5,7 +5,7 @@ function scuberGreetingForFeet (someDistance) {
     return ('This one is on me!') }
   if (someDistance >2000) {
     return ('I will gladly take your thirty bucks.') }
-  if (someDistance >2501) {
+  if (someDistance >2500) {
       return ('No can do.') }
 }
 
